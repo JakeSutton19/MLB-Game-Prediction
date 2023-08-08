@@ -17,5 +17,5 @@ I used several wonderful resources from DataQuest to compplete this project. Ple
   
   - Web Scraping: https://www.youtube.com/watch?v=o6Ih934hADU&t=3904s&ab_channel=Dataquest
   - Data/ML:
-        1) https://www.youtube.com/watch?v=ZO3HAVm9IdQ&ab_channel=Dataquest
-        2) https://www.youtube.com/watch?v=0irmDBWLrco&ab_channel=Dataquest
+        - 1) https://www.youtube.com/watch?v=ZO3HAVm9IdQ&ab_channel=Dataquest
+        - 2) https://www.youtube.com/watch?v=0irmDBWLrco&ab_channel=Dataquest
