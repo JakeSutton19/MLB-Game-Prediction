@@ -13,4 +13,7 @@ This project is officially beginning on August 7th of 2023, with expectation to 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I used this wonderful tutorial (https://github.com/dataquestio/project-walkthroughs/tree/master/nba_games) from DataQuest as inspiration for the project.
+I used several wonderful resources from DataQuest to compplete this project. Please see the list for references:
+  
+  - Web Scraping: https://www.youtube.com/watch?v=o6Ih934hADU&t=3904s&ab_channel=Dataquest
+  - Data/ML: https://www.youtube.com/watch?v=ZO3HAVm9IdQ&ab_channel=Dataquest
