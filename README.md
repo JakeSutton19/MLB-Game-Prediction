@@ -1,4 +1,4 @@
-# MLB-Game-Prediction
+# MLB Game Prediction
 
 The goal of this project is to accurately predict the outcomes of MLB baseball games. The way I will test whether or not the system can accurately predict the winners and losers of mlb baseball games is by training the system on 10 years of games from 2012 - 2022 and then testing the accuracy of the system against the 2023 season. 
 
