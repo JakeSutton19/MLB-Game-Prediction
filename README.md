@@ -13,4 +13,4 @@ This project is officially beginning on August 7th of 2023, with expectation to 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I used this tutorial (https://github.com/dataquestio/project-walkthroughs/tree/master/nba_games) from DataQuest as inspiration for the project
+I used this wonderful tutorial (https://github.com/dataquestio/project-walkthroughs/tree/master/nba_games) from DataQuest as inspiration for the project.
