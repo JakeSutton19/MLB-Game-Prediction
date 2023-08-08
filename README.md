@@ -16,4 +16,6 @@ This project is officially beginning on August 7th of 2023, with expectation to 
 I used several wonderful resources from DataQuest to compplete this project. Please see the list for references:
   
   - Web Scraping: https://www.youtube.com/watch?v=o6Ih934hADU&t=3904s&ab_channel=Dataquest
-  - Data/ML: https://www.youtube.com/watch?v=ZO3HAVm9IdQ&ab_channel=Dataquest
+  - Data/ML:
+        1) https://www.youtube.com/watch?v=ZO3HAVm9IdQ&ab_channel=Dataquest
+        2) https://www.youtube.com/watch?v=0irmDBWLrco&ab_channel=Dataquest
