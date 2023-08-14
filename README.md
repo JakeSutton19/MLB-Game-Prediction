@@ -21,6 +21,14 @@ I used several wonderful resources from DataQuest to compplete this project. Ple
         - 2) https://www.youtube.com/watch?v=0irmDBWLrco&ab_channel=Dataquest
 
 
-## WEEK 1 8/7-8/13
+## WEEK 1: 
+8/7-8/13
 
-After the first week, I was able to scrape each team's schedule from 2012-2022 as well as their seasons statistics. I then cleaned the data and complied it into 2 files, one for games and one for team stats. I then created a simple Random Forrest to predict the outcome (1: W, 0: L). My current precision is 57.8%, with lots of room to improve the model. 
+After the first week, I was able to scrape each team's schedule from 2012-2022 as well as their seasons statistics. I then cleaned the data and complied it into 2 files, one for games and one for team stats. I then created a simple Random Forrest to predict the outcome (1: W, 0: L). 
+
+Results:
+- Precision is 56.4%
+    - 0/0: 1189
+    - 0/1: 1241
+    - 1/0: 820
+    - 1/1: 1610
