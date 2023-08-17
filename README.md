@@ -9,23 +9,33 @@ The way I will test whether or not the system can accurately predict the winners
 This is an interesting and useful solution. If accurate, the system could be used in a wide variety of applications within sports betting as well as by organizations to make better decisions. 
 
 
+
+
+### Requirements 
+  - Playwright
+  - BeautifulSoup
+  - Pandas
+  - Scikit-Learn
+
+
+
+### Setup
+* Expected Oct 2023
+
+### Use
+
+  - Web Scrapping: web_scrapping.py
+  - Training: train.py
+
+
+### References
+
 I used several wonderful resources from DataQuest to compplete this project. Please see the list for references:
   
   - Web Scraping: https://www.youtube.com/watch?v=o6Ih934hADU&t=3904s&ab_channel=Dataquest
   - Data/ML:
         - 1) https://www.youtube.com/watch?v=ZO3HAVm9IdQ&ab_channel=Dataquest
         - 2) https://www.youtube.com/watch?v=0irmDBWLrco&ab_channel=Dataquest
-
-### Requirements 
-	- Pandas
-	- Scikit-Learn
-  - Playwright
-  - BeautifulSoup
-
-
-### Setup & Use
-* Expected Oct 2023
-
 
 
 # Results
