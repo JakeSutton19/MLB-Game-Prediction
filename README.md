@@ -1,5 +1,5 @@
 # MLB Game Prediction
-
+Developed by Jacob Sutton, 2023
 
 ## Introduction
 The goal of this project is to accurately predict the winner of MLB baseball games. 
@@ -8,7 +8,7 @@ The way I will test whether or not the system can accurately predict the winners
 
 
 ##Setup 
-* Expected Oct 2023
+Expected Oct 2023
 
 
 ## Application
@@ -32,7 +32,6 @@ I used several wonderful resources from DataQuest to compplete this project. Ple
 
 After the first week, I was able to scrape each team's schedule from 2012-2022 as well as their seasons statistics. I then cleaned the data and complied it into 2 files, one for games and one for team stats. I then created a simple Random Forrest to predict the outcome (1: W, 0: L). 
 
-Results:
 - Precision is 56.4%
     - 0/0: 1189
     - 0/1: 1241
