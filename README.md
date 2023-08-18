@@ -1,6 +1,8 @@
 # MLB Game Prediction
 Developed by Jacob Sutton, 2023
 
+*** WORK IN PROGRESS. USE JUPYTER FILES FOR WORKING VERSIONS
+
 ### Introduction
 The goal of this project is to accurately predict the winner of MLB baseball games. 
 
