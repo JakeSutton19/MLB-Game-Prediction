@@ -1,7 +1,7 @@
 # MLB Game Prediction
 Developed by Jacob Sutton, 2023
 
-*** WORK IN PROGRESS. USE JUPYTER FILES FOR WORKING VERSIONS
+*** WORK IN PROGRESS. SEE JUPYTER FILES FOR WORKING SCRIPT
 
 ### Introduction
 The goal of this project is to accurately predict the winner of MLB baseball games. 
@@ -21,13 +21,9 @@ This is an interesting and useful solution. If accurate, the system could be use
 
 
 
-### Setup
+### Setup & Use
 * Expected Oct 2023
 
-### Use
-
-  - Web Scrapping: web_scrapping.py
-  - Training: train.py
 
 
 ### References
