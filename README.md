@@ -3,12 +3,15 @@ Developed by Jacob Sutton, 2023
 
 *** WORK IN PROGRESS. SEE JUPYTER FILES FOR WORKING SCRIPT
 
-### Introduction
+## Introduction
 The goal of this project is to accurately predict the winner of MLB baseball games. 
 
 The way I will test whether or not the system can accurately predict the winners of MLB baseball games is by testing the accuracy of the system against the 2023 season. The project will be continued by enabling the system to predict the winner of the 2023 World Series. The end result of the project is to be a interactive UI that allows a user to enter the details of a future game and find out who will win, and by what confidence. 
 
 This is an interesting and useful solution. If accurate, the system could be used in a wide variety of applications within sports betting as well as by organizations to make better decisions. 
+
+
+## Diagram
 
 ![Alt text](Resources/MLB_Diagram.png)
 
