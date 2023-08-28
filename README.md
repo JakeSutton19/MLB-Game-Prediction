@@ -35,6 +35,13 @@ I used several wonderful resources from DataQuest to compplete this project. Ple
         - 1) https://www.youtube.com/watch?v=ZO3HAVm9IdQ&ab_channel=Dataquest
         - 2) https://www.youtube.com/watch?v=0irmDBWLrco&ab_channel=Dataquest
 
+- Baseball Prediction Tutorial by Numeristical
+     - https://www.youtube.com/watch?v=-e5-Ls4yDRs&list=PLeVfk5xTWHYCCqpcNlbRdIXi2CNt9zKvs&ab_channel=numeristical
+ 
+- Data from RetroSheet
+    - https://www.retrosheet.org/gamelogs/index.html
+
+
 
 # Results
 ### WEEK 1: 

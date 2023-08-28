@@ -136,3 +136,10 @@ dmypy.json
 data/
 DRIVERS/
 DEV/*
+LOG
+BP Tutorial/Data
+BP Tutorial/RetroSheet
+BP Tutorial/RS-Pitching
+BP Tutorial/RS-Batters
+BP Tutorial/OddShark
+
