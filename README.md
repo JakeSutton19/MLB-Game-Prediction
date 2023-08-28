@@ -42,17 +42,3 @@ I used several wonderful resources from DataQuest to compplete this project. Ple
     - https://www.retrosheet.org/gamelogs/index.html
 
 
-
-# Results
-### WEEK 1: 
-8/7-8/13
-
-After the first week, I was able to scrape each team's schedule from 2012-2022 as well as their seasons statistics. I then cleaned the data and complied it into 2 files, one for games and one for team stats. I then created a simple Random Forrest to predict the outcome (1: W, 0: L). 
-
-- Error is 57.6%
-- Precision is 56.5%
-    - 0/0: 1189
-    - 0/1: 1241
-    - 1/0: 820
-    - 1/1: 1610
-
