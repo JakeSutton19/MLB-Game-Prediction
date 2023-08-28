@@ -10,7 +10,7 @@ The way I will test whether or not the system can accurately predict the winners
 
 This is an interesting and useful solution. If accurate, the system could be used in a wide variety of applications within sports betting as well as by organizations to make better decisions. 
 
-
+![Alt text](Resources/MLB_Diagram.png)
 
 
 ### Requirements 

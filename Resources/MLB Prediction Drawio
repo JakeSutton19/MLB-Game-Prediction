@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" modified="2023-08-28T23:45:38.872Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_T_wC_bKYarKNoX9a_Cc" version="21.6.9" type="device">
+  <diagram name="Page-1" id="rQGVsqeOKrTSm6DSm4WU">
+    <mxGraphModel dx="2049" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pVVR50R1QzDzifHra2IK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVVR50R1QzDzifHra2IK-1" target="pVVR50R1QzDzifHra2IK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;endArrow=none;endFill=0;" edge="1" parent="1" source="pVVR50R1QzDzifHra2IK-1" target="pVVR50R1QzDzifHra2IK-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="370" />
+              <mxPoint x="130" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Input Game Data&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pVVR50R1QzDzifHra2IK-3" target="pVVR50R1QzDzifHra2IK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Make Predictions&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;shape=flexArrow;" edge="1" parent="1" source="pVVR50R1QzDzifHra2IK-5" target="pVVR50R1QzDzifHra2IK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Evaluate Results&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-7" value="- Moneyline&lt;br&gt;- Over/Under&lt;br&gt;- Runline&lt;br&gt;- Outcome" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVVR50R1QzDzifHra2IK-8" target="pVVR50R1QzDzifHra2IK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-8" value="Scrape Data from site(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="380" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVVR50R1QzDzifHra2IK-10" target="pVVR50R1QzDzifHra2IK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-10" value="Format data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="520" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVVR50R1QzDzifHra2IK-12" target="pVVR50R1QzDzifHra2IK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-12" value="Update DB with new data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="640" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="pVVR50R1QzDzifHra2IK-15" source="pVVR50R1QzDzifHra2IK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="330" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="420" y="350" />
+              <mxPoint x="420" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVVR50R1QzDzifHra2IK-15" target="pVVR50R1QzDzifHra2IK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-15" value="Prepare datasets for training" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="370" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVVR50R1QzDzifHra2IK-17" target="pVVR50R1QzDzifHra2IK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-17" value="Re-train model with updated data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="520" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pVVR50R1QzDzifHra2IK-19" target="pVVR50R1QzDzifHra2IK-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-19" value="Run upcoming games through new model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="660" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pVVR50R1QzDzifHra2IK-21" target="pVVR50R1QzDzifHra2IK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-21" value="After games occur, check predictions against real outcomes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="380" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVVR50R1QzDzifHra2IK-26" target="pVVR50R1QzDzifHra2IK-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-26" value="Check bets to calculate net profit/loss" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="520" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVVR50R1QzDzifHra2IK-28" target="pVVR50R1QzDzifHra2IK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-28" value="Make series of bets from pool based on predictions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="800" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pVVR50R1QzDzifHra2IK-31" value="Update results in a dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="670" width="130" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
