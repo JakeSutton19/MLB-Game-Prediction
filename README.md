@@ -62,7 +62,7 @@ that make the predictions I need
 
 - Then I will need to go through a standardized analysis to evaluate the model for accuracy 
 
-#### Model Evaluation
+#### Evaluate Model
 
 - Once I have a model that I am satisfied with I will need to write a script which uses that model:
 
@@ -72,14 +72,14 @@ that make the predictions I need
   I then want to visulatize the accuarcy of the model and the real-world applied results. 
 
 
-#### Pipeline Creation
-
-- Once I have a complete series of working models, I want to write a script that builds out the above pipeline in segments
-so that I can continue the project, making tweaks with my feature selection, parameter tuning, etc.
 
 
-#### Further Work
+#### Continued Areas
 
+- Create a Full ML Pipeline
+  - Once I have a complete series of working models, I want to write a script that builds out the above pipeline in segments
+  so that I can continue the project, making tweaks with my feature selection, parameter tuning, etc.
+  
 - Once the pipeline is created and in full swing, I want to build out the project so that it can be downloaded and used by other
 developers in an effort to both make accuarte predictions as well as money.
 
