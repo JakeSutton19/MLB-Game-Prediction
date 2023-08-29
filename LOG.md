@@ -28,3 +28,6 @@ to do with the potential bets it could be used for:
 	4. W/L
 
 So I will begin my focus on these statistics and use the base project from BP Tutorial as the foundation for my pipeline. 
+
+
+

@@ -16,20 +16,76 @@ This is an interesting and useful solution. If accurate, the system could be use
 ![Alt text](Resources/MLB_Diagram.png)
 
 
-### Requirements 
-  - Playwright
-  - BeautifulSoup
-  - Pandas
-  - Scikit-Learn
+## Outline
+
+#### Scrape Sportsbook Data
+
+It looks like there multiple sportsbooks that a I can use to get the true outcome of the games that I will be trying to predict. 
+
+Sportsbooks:
+  
+1. Yahoo Sports: https://sports.yahoo.com/mlb/odds/
+2. Draft Kings: https://sportsbook.draftkings.com/leagues/baseball/mlb
+3. Sportsline: https://www.sportsline.com/mlb/odds/
+4. OddsShark: https://www.oddsshark.com/mlb/odds
+
+  
+  - So I will need to create a script that goes to these sites, scrape the odds data for the games, and then save that data. 
+
+
+#### Scrape MLB Game Data
+
+I will need to scrape relavant baseball data from sites so that I can keep my DB up-to-date.
+
+I will use sites like:
+
+1. RetroSheet: https://www.retrosheet.org/
+  - Limited to previous complete season 1899-2022
+2. FanGraphs: https://www.fangraphs.com/
+  - For up to date games used to predict odds for
+
+
+  - So I will need to create a script that goes to these sites and scrapes the data so I have statistics for each game, player, team, etc
+
+
+#### Clean & Format Data for Use
+
+- Once I have all this data, I need to have a script that I can run to clean and organize the data into a uniform format. 
+
+- I will also need a script that can go through the dataset and pull out subsets of features that I will use to create a series of models
+that make the predictions I need
+
+
+#### Make Model
+
+- Once I have a dataset of features I want to build out a model with, I will need to write a script that trains and evaluates a model.
+
+- Then I will need to go through a standardized analysis to evaluate the model for accuracy 
+
+#### Model Evaluation
+
+- Once I have a model that I am satisfied with I will need to write a script which uses that model:
+
+  1. It will need to make predictions for the metric we are evaluating
+  2. The script will then need to use the model's predictions to make a series of bets
+
+  I then want to visulatize the accuarcy of the model and the real-world applied results. 
+
+
+#### Pipeline Creation
+
+- Once I have a complete series of working models, I want to write a script that builds out the above pipeline in segments
+so that I can continue the project, making tweaks with my feature selection, parameter tuning, etc.
+
+
+#### Further Work
+
+- Once the pipeline is created and in full swing, I want to build out the project so that it can be downloaded and used by other
+developers in an effort to both make accuarte predictions as well as money.
 
 
 
-### Setup & Use
-* Expected Oct 2023
-
-
-
-### References
+## References
 
 I used several wonderful resources from DataQuest to compplete this project. Please see the list for references:
   
@@ -41,7 +97,5 @@ I used several wonderful resources from DataQuest to compplete this project. Ple
 - Baseball Prediction Tutorial by Numeristical
      - https://www.youtube.com/watch?v=-e5-Ls4yDRs&list=PLeVfk5xTWHYCCqpcNlbRdIXi2CNt9zKvs&ab_channel=numeristical
  
-- Data from RetroSheet
-    - https://www.retrosheet.org/gamelogs/index.html
 
 
