@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" modified="2023-09-01T20:26:57.310Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="RLyOvmk0WBHyGDsU8q3k" version="21.6.9" type="device">
+  <diagram name="Page-1" id="ePyGvP_rf9o9YwSjoklr">
+    <mxGraphModel dx="2497" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="620" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-atAxpLoan7Hc-_wu-wd-1" target="-atAxpLoan7Hc-_wu-wd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-1" value="Obtain Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-atAxpLoan7Hc-_wu-wd-2" target="-atAxpLoan7Hc-_wu-wd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-2" value="Make Predictions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.85;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-atAxpLoan7Hc-_wu-wd-4" target="-atAxpLoan7Hc-_wu-wd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-4" value="Evaluate Predictions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;ML Pipeline&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="250" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-atAxpLoan7Hc-_wu-wd-8" target="-atAxpLoan7Hc-_wu-wd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-8" value="Clean &amp;amp; Format&lt;br&gt;Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="585" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-atAxpLoan7Hc-_wu-wd-9" target="-atAxpLoan7Hc-_wu-wd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-atAxpLoan7Hc-_wu-wd-9" target="-atAxpLoan7Hc-_wu-wd-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-9" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;DB&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="640" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=default;shape=mxgraph.mscae.oms.dashboard" vertex="1" parent="1">
+          <mxGeometry x="610" y="539.5" width="290" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Dashboard&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="540" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="510" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;- Pandas&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="195" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;-Scikit-learn&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="195" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;- PyTorch&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="195" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;- Keras&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="195" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;- Tensorflow&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="195" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="555" width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;- Pandas&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="605" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;-Scikit-learn&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="645" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;- bs4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="540" width="110" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;- HTML&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="605" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;- CSS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="645" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;- Dash&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="720" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-37" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;- CSV&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="735" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;- SQL&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="735" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-atAxpLoan7Hc-_wu-wd-43" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;- Pandas&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="925" y="685" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

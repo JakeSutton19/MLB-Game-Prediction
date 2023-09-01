@@ -135,7 +135,12 @@ dmypy.json
 #Folders
 data/
 DRIVERS/
-DEV/*
+DEV/Scripts
+DEV/V1
+DEV/RetroSheet
+DEV/Data
+DEV/OddShark
+
 LOG
 BP Tutorial/Data
 BP Tutorial/RetroSheet
